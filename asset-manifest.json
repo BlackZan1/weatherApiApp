@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/weatherApiApp/static/css/main.a26703c4.chunk.css",
+    "main.js": "/weatherApiApp/static/js/main.ec14d94a.chunk.js",
+    "main.js.map": "/weatherApiApp/static/js/main.ec14d94a.chunk.js.map",
+    "runtime-main.js": "/weatherApiApp/static/js/runtime-main.ae357589.js",
+    "runtime-main.js.map": "/weatherApiApp/static/js/runtime-main.ae357589.js.map",
+    "static/js/2.8f5cbae2.chunk.js": "/weatherApiApp/static/js/2.8f5cbae2.chunk.js",
+    "static/js/2.8f5cbae2.chunk.js.map": "/weatherApiApp/static/js/2.8f5cbae2.chunk.js.map",
+    "index.html": "/weatherApiApp/index.html",
+    "precache-manifest.7a1219df570428c1e76a7d8ca917c9ad.js": "/weatherApiApp/precache-manifest.7a1219df570428c1e76a7d8ca917c9ad.js",
+    "service-worker.js": "/weatherApiApp/service-worker.js",
+    "static/css/main.a26703c4.chunk.css.map": "/weatherApiApp/static/css/main.a26703c4.chunk.css.map",
+    "static/js/2.8f5cbae2.chunk.js.LICENSE": "/weatherApiApp/static/js/2.8f5cbae2.chunk.js.LICENSE",
+    "static/media/App.module.css": "/weatherApiApp/static/media/bg.e75cebdd.png",
+    "static/media/Info.module.css": "/weatherApiApp/static/media/polygon.ae3ee640.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ae357589.js",
+    "static/js/2.8f5cbae2.chunk.js",
+    "static/css/main.a26703c4.chunk.css",
+    "static/js/main.ec14d94a.chunk.js"
+  ]
+}

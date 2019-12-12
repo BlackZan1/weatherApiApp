@@ -1,0 +1,51 @@
+.Form {
+    height: 120px;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+}
+
+.Form input {
+    width: 250px;
+    height: 30px;
+    border: none;
+    background: none;
+    color: #fff;
+    margin-right: 30px;
+    font-size: 16px;
+    border-bottom: 1px solid #000;
+}
+
+.Form input:focus {
+    outline: none;
+    background: none;
+}
+
+.Form input::placeholder {
+    color: #323232;
+}
+
+input:-internal-autofill-selected {
+    background: none !important;
+}
+ 
+.Form button {
+    width: 140px;
+    font-size: 16px;
+    border: none;
+    background: #b22222;
+    color: #fff;
+    padding: 10px 5px 10px 5px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: all .3s ease;
+}
+
+.Form button:focus {
+    outline: none;
+    background: #8b0000;
+}
+
+.Form button:hover {
+    background: #8b0000;
+}

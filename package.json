@@ -2,7 +2,7 @@
   "name": "my-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://blackzan1.github.io/weatherApiApp/",
+  "homepage": "https://blackzan1.github.io/react-wEAther-app/",
   "dependencies": {
     "gh-pages": "^2.1.1",
     "react": "^16.9.0",
